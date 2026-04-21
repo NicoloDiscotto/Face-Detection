@@ -20,18 +20,12 @@ The goal was to create an automatic **Face Detection** system, capable of identi
 ## Datasets and images
 
 The training and testing images are hosted in a separate repository:
-🔗 [Repository immagini pubblica](https://github.com/NicoloDiscotto/project_images)
+🔗 [Repository immagini pubblica](https://github.com/NicoloDiscotto/face_detection_samples)
 
-## Librerie utilizzate
+## Library
 
 - `scikit-learn`
-- `opencv-python`
+- `opencv`
 - `numpy`
 - `matplotlib`
 - `requests`
-
-## Caratteristiche tecniche
-
-- Il progetto è stato sviluppato in Python tramite notebook.
-- Le immagini sono caricate da URL per mantenere la portabilità.
-- L’intero progetto è documentato passo-passo.
